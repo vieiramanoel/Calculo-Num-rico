@@ -7,7 +7,7 @@ function xn = bisect(ii, ie)
         b = xn;
     else
         a = xn;
-    endif
+    end
     xn = (a + b) / 2.0;
-  endwhile
-endfunction
+  end
+end
