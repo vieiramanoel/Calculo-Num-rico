@@ -1,4 +1,4 @@
 function answ = f(x)
-  answ = 4*sin(x)/3;
+  answ = x^2+x-6;
   return
 end
